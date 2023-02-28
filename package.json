@@ -1,0 +1,21 @@
+{
+  "name": "projectinstaclone",
+  "version": "1.0.0",
+  "description": "Doing peoject instaclone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uday",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mongoose": "^6.10.0",
+    "mv": "^2.1.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
